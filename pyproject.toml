@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"] 
 
-[tool.poetry.dependencies]
+[tool.poetry.dependencies] 
 python = ">=3.10.0,<3.12"
 langchain-openai = "^0.2.1"
 langchain-core = "^0.3.6"
